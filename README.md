@@ -1,16 +1,16 @@
 
-<h3>👋 Olá! Eu sou <strong>Dayvid Douglas</strong></h3>
+<h3>👋 Olá! Eu sou <strong>Dayvid Douglas.</strong></h3>
 
-<h4>🎓 Formação Acadêmica</h4>
+<h4>🎓 Formação Acadêmica:</h4>
 <ul>
-  <li>🎯 <strong>Análise e Desenvolvimento de Sistemas</strong></li>
-  <li>🧠 <strong>Pós-graduação em Engenharia de Software</strong></li>
-  <li>💼 <strong>Administração</strong></li>
+  <li>🎯 <strong>Análise e Desenvolvimento de Sistemas.</strong></li>
+  <li>🧠 <strong>Pós-graduação em Engenharia de Software.</strong></li>
+  <li>💼 <strong>Administração.</strong></li>
 </ul>
 
 <hr>
 
-<h2>🚀 Objetivo Profissional</h2>
+<h2>🚀 Objetivo Profissional:</h2>
 
 <ul> 
 <li> Busco minha primeira oportunidade como desenvolvedor Back-end.</li>
