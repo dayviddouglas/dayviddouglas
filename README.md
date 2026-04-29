@@ -19,20 +19,20 @@
 </ul>
 
 <br>
-<div style="display: inline_block";>
-  <img align="center" alt="Dayvid-jAVA" height="50" width="50" src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png">
-  <img align="center" alt="Dayvid-SPRINGBOOT" height="50" width="50" src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png">
-    <img align="center" alt="Dayvid-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-    <img align="center" alt="Dayvid-NODEJS" height="50" width="50" src="https://github.com/user-attachments/assets/d601d27a-c194-481a-a6d8-ca668d555266">
-    <img align="center" alt="Dayvid-MYSQL" height="50" width="50" src="https://geeklk.com/wp-content/uploads/2014/03/mysql-geeklk.jpg">
-    <img align="center" alt="Dayvid-MONGODB" height="50" width="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000">
-</div>
+<p align="center">
+  <img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" height="50"/>
+  <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50"/>
+  <img src="https://github.com/user-attachments/assets/d601d27a-c194-481a-a6d8-ca668d555266" height="50"/>
+  <img src="https://geeklk.com/wp-content/uploads/2014/03/mysql-geeklk.jpg" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" height="50"/>
+</p>
 <br>
 
 <div> 
      <a href="https://www.linkedin.com/in/dayvid-douglas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:dayvid_douglas@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Microsoft-%2327BBF5?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"">
+    <a href="mailto:dayviddev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </div>
 <br>
